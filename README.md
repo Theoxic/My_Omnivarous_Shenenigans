@@ -1,2 +1,2 @@
-# My_Omnivarous_Shenenigans
+# My_Omnivorous_Shenenigans
 Basically messing around trying to figure out stuffs on TheOdinProject
