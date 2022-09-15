@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Oloruntobi's first webpage</title>
+</head>
+
+<body>
+   <h1>
+    Hello World, the game is on! LFG!
+       </h1> 
+       <h2>
+        Making magic with HTML
+       </h2>
+       <!--Theo keep pushing, you've got this. Don't you dare give up! keep at it, 
+        i know you feel like crying, but aren't you happy seeing the lines just flow? 
+        You feel like a fucking programmer. Hey! and you're not too old. 
+        Jesus started ministry @ 30. Thompson started learning code at 30. Believe in yourself. 
+        This hustle will pay. You'll make peace with Dad YaKUBU, i KNOW YOU LOVE HIM. 
+        You'll be fine, but work, you must, so get on with it. Keep pushing! and Pray, please, Theo Pray.-->
+    <p>
+        Lorem ipsum dolor sit amet, <strong>consectetur adipiscing</strong> elit, 
+        sed do <em>eiusmod tempor incididunt</em> ut labore et dolore magna aliqua
+    </p>
+        <p>
+            <h5>
+                Tellus in metus vulputate eu scelerisque felis imperdiet proin.
+        </h5> 
+        Elementum pulvinar <strong><em>etiam non quam lacus</em></strong> suspendisse faucibus interdum posuere. 
+        Viverra justo nec ultrices dui sapien. Morbi blandit cursus risus at ultrices mi tempus. 
+        Cum sociis natoque penatibus et magnis dis parturient montes nascetur.</p>
+</body>
+</html>
